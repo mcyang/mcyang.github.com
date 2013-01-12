@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mcyang.github.com/atom.xml" rel="self"/>
   <link href="http://mcyang.github.com/"/>
-  <updated>2013-01-12T16:43:25+08:00</updated>
+  <updated>2013-01-12T20:33:17+08:00</updated>
   <id>http://mcyang.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[this is test page in markdown style]]></title>
+    <link href="http://mcyang.github.com/blog/2013/01/12/this-is-test-page/"/>
+    <updated>2013-01-12T20:26:00+08:00</updated>
+    <id>http://mcyang.github.com/blog/2013/01/12/this-is-test-page</id>
+    <content type="html"><![CDATA[<p>contents line1</p>
+
+<p>line2</p>
+
+<p>*item2</p>
+
+<p>*item3</p>
+]]></content>
+  </entry>
   
 </feed>
