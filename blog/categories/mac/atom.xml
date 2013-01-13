@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[喀唬喃]]></title>
-  <link href="http://mcyang.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: mac | 喀唬喃]]></title>
+  <link href="http://mcyang.github.com/blog/categories/mac/atom.xml" rel="self"/>
   <link href="http://mcyang.github.com/"/>
   <updated>2013-01-13T14:00:51+08:00</updated>
   <id>http://mcyang.github.com/</id>
@@ -22,7 +22,7 @@
 
 <p>想當然爾就是開別人的 blog 檢視網頁原始碼參考一下囉!</p>
 
-<p>但是&#8230; God! Safari 按右鍵怎麼找不到檢視原始碼呢?</p>
+<p>但是... God! Safari 按右鍵怎麼找不到檢視原始碼呢?</p>
 
 <p>請參考下列做法 :</p>
 
